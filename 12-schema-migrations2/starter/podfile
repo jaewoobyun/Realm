@@ -1,0 +1,6 @@
+use_frameworks!
+inhibit_all_warnings!
+
+target "Exams" do
+  pod 'RealmSwift', '3.14.0'
+end
